@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Maname&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kalnia+Glaze:wght@100..700&family=Maname&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kalnia+Glaze:wght@100..700&family=Maname&family=Silkscreen:wght@400;700&display=swap');
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.figura {
+    width: 100px;
+}
+
+/* Classe para configuração de fonte */
+.fonte {
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    font-family: "Bebas Neue", sans-serif;
+}
+
+.fonte2 {
+    font-size: 40px;
+
+}
+
+.gato {
+
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+
+}
+
+.figura {
+    width: 500px;
+    float: right;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+}
